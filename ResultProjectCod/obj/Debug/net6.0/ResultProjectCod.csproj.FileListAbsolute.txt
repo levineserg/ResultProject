@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\bin\Debug\net6.0\ResultProjectCod.exe
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\bin\Debug\net6.0\ResultProjectCod.deps.json
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\bin\Debug\net6.0\ResultProjectCod.runtimeconfig.json
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\bin\Debug\net6.0\ResultProjectCod.dll
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\bin\Debug\net6.0\ResultProjectCod.pdb
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.AssemblyInfo.cs
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.dll
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\refint\ResultProjectCod.dll
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.pdb
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ResultProjectCod.genruntimeconfig.cache
+G:\Мой диск\GB\C#\ResultProject\ResultProjectCod\obj\Debug\net6.0\ref\ResultProjectCod.dll
